@@ -1,0 +1,7 @@
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\bin\Debug\tarihodevlab.exe.config
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\bin\Debug\tarihodevlab.exe
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\bin\Debug\tarihodevlab.pdb
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\obj\Debug\tarihodevlab.csprojAssemblyReference.cache
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\obj\Debug\tarihodevlab.csproj.CoreCompileInputs.cache
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\obj\Debug\tarihodevlab.exe
+C:\Users\unuva\source\repos\tarihodevlab\tarihodevlab\obj\Debug\tarihodevlab.pdb
